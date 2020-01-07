@@ -24,3 +24,6 @@
 
 
 
+class Cat 
+  
+end
